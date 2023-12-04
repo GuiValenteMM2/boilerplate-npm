@@ -11,5 +11,8 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Guilherme Martins"
+	"author": {
+		"first name": "Guilherme",
+		"second name": "Martins"
+}
 }
